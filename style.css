@@ -6,6 +6,16 @@ img{
     width: 450px;
     height: 300px;
     margin: 10px;
+    transition: all 2s;
+    /* transition will take action after 1sec when*/
+}
+img:hover{
+    transform: scale(1.1);
+    /*transform: rotate(1080deg/90deg)*/
+    /*tranform will define action defined here 
+    reource: 
+    https://thoughtbot.com/blog/transitions-and-transforms*/
+
 }
 
 h1{
