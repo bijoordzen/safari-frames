@@ -1,0 +1,15 @@
+.container{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+img{
+    width: 450px;
+    height: 300px;
+    margin: 10px;
+}
+
+h1{
+    font-family: 'Fasthand', cursive;
+    border: 10px solid pink;
+    width: 120px;
+}
